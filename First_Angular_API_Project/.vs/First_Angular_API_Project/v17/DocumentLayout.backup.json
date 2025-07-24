@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|d:\\projects\\angular with api\\first_angular_api_project\\first_angular_api_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|solutionrelative:first_angular_api_project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|d:\\projects\\angular with api\\first_angular_api_project\\first_angular_api_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|solutionrelative:first_angular_api_project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|d:\\projects\\angular with api\\first_angular_api_project\\first_angular_api_project\\first_angular_api_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|solutionrelative:first_angular_api_project\\first_angular_api_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|d:\\projects\\angular with api\\first_angular_api_project\\first_angular_api_project\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|solutionrelative:first_angular_api_project\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|d:\\projects\\angular with api\\first_angular_api_project\\first_angular_api_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|solutionrelative:first_angular_api_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|d:\\projects\\angular with api\\first_angular_api_project\\first_angular_api_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6A06BE3-86B2-44E1-8671-85A8C2698F23}|First_Angular_API_Project\\First_Angular_API_Project.csproj|solutionrelative:first_angular_api_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "First_Angular_API_Project\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "First_Angular_API_Project\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvzgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:22:06.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "First_Angular_API_Project\\Models\\ProductDbContext.cs",
+              "ToolTip": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "First_Angular_API_Project\\Models\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:53:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "First_Angular_API_Project\\Models\\Product.cs",
+              "ToolTip": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\Models\\Product.cs",
+              "RelativeToolTip": "First_Angular_API_Project\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:50:23.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "First_Angular_API_Project",
+              "DocumentMoniker": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\First_Angular_API_Project.csproj",
+              "RelativeDocumentMoniker": "First_Angular_API_Project\\First_Angular_API_Project.csproj",
+              "ToolTip": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\First_Angular_API_Project.csproj",
+              "RelativeToolTip": "First_Angular_API_Project\\First_Angular_API_Project.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T16:49:26.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "First_Angular_API_Project\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\appsettings.json",
+              "RelativeToolTip": "First_Angular_API_Project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T16:42:22.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\Program.cs",
+              "RelativeDocumentMoniker": "First_Angular_API_Project\\Program.cs",
+              "ToolTip": "D:\\Projects\\Angular With API\\First_Angular_API_Project\\First_Angular_API_Project\\Program.cs",
+              "RelativeToolTip": "First_Angular_API_Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:42:14.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
